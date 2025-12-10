@@ -87,8 +87,7 @@ Used Excel pivot tables and AVERAGEIF functions to calculate:
 ## 📁 Files in This Repository
 
 - `amazon_delivery.xlsx` - Complete dataset with cleaning log and pivot tables
-- `Data-Cleaning-Log.md` - Detailed documentation of all cleaning steps
-- `Analysis-Findings.md` - In-depth analysis results and interpretation
+- `Readme Amazon Delivery optimization project.`  Comprehensive case study report following the complete 6-step Data Analysis Life Cycle (Ask, Prepare, Process, Analyze, Share, Act). Documents the full methodology from business objective definition through data cleaning validation and actionable recommendations.
 - `Visualizations/` - Charts and graphs supporting findings
 - `README.md` - This file
 
